@@ -20,5 +20,5 @@ You can get Test Ether from [alchemy](https://sepoliafaucet.com/)
 ***
 
 ## Note:
-For this you must have MetaMask installed in your browser and also we are assuming that players has metamask account.
+For this you must have MetaMask installed in your browser and also we are assuming that players have metamask account.
 
