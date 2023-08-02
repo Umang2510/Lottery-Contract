@@ -1,18 +1,18 @@
 # Lottery-Contract
-This is a app which pick a winner from entered players, And send money exist in contract to winning player.
+Enter a contract and win money. Players can participate in a contract and a lucky winner will be picked to win the entire pool.
 
 ## Description
-This is Lottery contract. This will allow user to enter in lottery by depositing some amount of test ether. After that manager will pick the winner and all amount which is recieved by contract will transfer to winning player.
+This is a Lottery contract. This will allow users to enter the lottery by depositing some amount of test ether. After that manager picks the winner and all amount which is received by the contract will transfer to the winning player.
 
 ## Step to Run
 
 > 1. Clone the Lottery repository.
-> 2. Download node js in your computer.
-> 3. For Lottery, install these packages -> web3, truffle/HD Wallet, ganache by using npm install
+> 2. Download node js on your computer.
+> 3. For Lottery, install these packages -> web3, truffle/HD Wallet, and ganache by using npm install
 > 4. For Lottery-react, create react app using npm
-> 5. Now change mnemonics of your account and url of test network in Lottery > deploy.js
+> 5. Now change the mnemonics of your account and URL of the test network in Lottery > deploy.js
 > 6. deploy contract using node deploy.js
-> 7. Copy address and abi paste that in lottery-react > lottery.js
+> 7. Copy the address and abi paste that into lottery-react > lottery.js
 > 8. Run lottery-react using npm run start
 
 ***
@@ -20,5 +20,5 @@ You can get Test Ether from [alchemy](https://sepoliafaucet.com/)
 ***
 
 ## Note:
-For this you must have MetaMask installed in your browser and also we are assuming that players have metamask account.
+For this you must have MetaMask installed in your browser and also we are assuming that players have Metamask accounts.
 
