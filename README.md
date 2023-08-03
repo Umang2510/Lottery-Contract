@@ -1,5 +1,5 @@
 # Lottery-Contract
-Enter a contract and win money. Players can participate in a contract and a lucky winner will be picked to win the entire pool.
+Enter in a lottery and win money. Players can participate in a contract and a lucky winner will be picked to win the entire pool.
 
 ## Description
 This is a Lottery contract. This will allow users to enter the lottery by depositing some amount of test ether. After that manager picks the winner and all amount which is received by the contract will transfer to the winning player.
